@@ -30,3 +30,4 @@
 coverage/.resultset.json
 coverage/index.html
 coverage/.resultset.json
+.coverage*

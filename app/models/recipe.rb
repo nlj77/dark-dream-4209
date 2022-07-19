@@ -5,4 +5,8 @@ class Recipe < ApplicationRecord
 
     has_many :recipe_ingredients
     has_many :ingredients, through: :recipe_ingredients
+
+    def total_cost
+        ingredients.map {|ingredient| ingredient.cost}.sum
+    end
 end
