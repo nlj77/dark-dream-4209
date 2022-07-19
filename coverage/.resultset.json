@@ -241,13 +241,30 @@
       "/Users/nickjones/Turing/2Module/ics/dark-dream-4209/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
           null
         ]
       },
       "/Users/nickjones/Turing/2Module/ics/dark-dream-4209/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/nickjones/Turing/2Module/ics/dark-dream-4209/spec/models/ingredient_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -276,8 +293,8 @@
           1,
           null,
           1,
-          2,
-          2,
+          1,
+          1,
           null,
           null
         ]
@@ -296,14 +313,14 @@
           null,
           1,
           1,
-          2,
-          2,
-          2,
+          1,
+          1,
+          1,
           null,
           null,
           1,
-          2,
-          2,
+          1,
+          1,
           null,
           null
         ]
@@ -321,6 +338,6 @@
         ]
       }
     },
-    "timestamp": 1658264570
+    "timestamp": 1658266446
   }
 }
