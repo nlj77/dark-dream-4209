@@ -27,3 +27,6 @@
 /config/master.key
 
 /coverage
+coverage/.resultset.json
+coverage/index.html
+coverage/.resultset.json
